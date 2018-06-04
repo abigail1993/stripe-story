@@ -1,0 +1,68 @@
+
+#principal {
+    width:  100%;
+}
+
+.completo {
+    padding: 0px;
+}
+
+.white {
+    color: white;
+}
+
+.gray {
+    background-color: gray;
+    width: 40px;
+}
+
+#img-l {
+    width: 190px;
+}
+
+.nav-black {
+    background-color: black;
+    color: white;
+}
+.m-left {
+    margin-left: 85px;
+
+}
+
+#player {
+    text-align: center;
+}
+
+.list-videos {
+    background-color: white;
+}
+
+.video {
+    margin: 20px 0px;
+}
+#video1 {
+    background-color: rgb(8, 8, 8);
+    ;
+}
+
+#img-l {
+    width: 200px;
+}
+
+.titulo {
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.mas {
+    margin-left: 20px;
+}
+
+.mas2 {
+    margin-left: 80px;
+}
+
+
+/**/
+    
+     
